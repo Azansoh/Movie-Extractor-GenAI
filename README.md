@@ -89,7 +89,7 @@ cd CineStage
 ### 3. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### 4. Configure Environment Variables
@@ -103,7 +103,7 @@ MISTRAL_API_KEY=your_mistral_api_key
 ### 5. Run the Application
 
 ```bash
-streamlit run UIcore.py
+python -m streamlit run UIcore.py
 ```
 
 The application will open in your browser.
